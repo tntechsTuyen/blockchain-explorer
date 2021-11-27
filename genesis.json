@@ -1,0 +1,54 @@
+{
+    "config": {
+        "chainId": 1996,
+        "homesteadBlock": 0,
+        "eip150Block": 0,
+        "eip155Block": 0,
+        "eip158Block": 0
+    },
+    "nonce": "0x000000000000002a",
+    "difficulty": "0x020000",
+    "mixhash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "timestamp": "0x00",
+    "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "extraData": "0x",
+    "gasLimit": "0x2fefd8",
+    "clique": {
+      "period": 5,
+      "epoch": 30000
+    },
+    "alloc": {
+        "B740fCc7636c8D53Fdf4f62Fa69A551dbaf3F13d":
+         { "balance": "0x0030000000000000000000" },
+        "59BeD4cF0c2B555803Ca671d0FF78dAeFEd50Bd1": 
+         { "balance": "0x0030000000000000000000" },
+        "6e3C5c8024869e419ce635a7C7674C416DcbAA8b": 
+         { "balance": "0x1337000000000000000000" },
+        "A58f95Bfd8229163b996B09F4AC7B83e6aDFe7ad": 
+         { "balance": "0x0337000000000000000000" },
+        "2C7cc31BD6718fAFc4122F5457ba5E8a53B8D831": 
+         { "balance": "0x1000000000000000000000" },
+        "B7dA01c1bbA412a6EDcf279e1d6a506308e0d05a": 
+         { "balance": "0x00" },
+        "d331ACFc0518E095dE8313F3C4AFdcd337B373d3": 
+         { "balance": "0x00" },
+        "de3b7963F747eeDC915ac0A4D874f84D64cfF300": 
+         { "balance": "0x00" },
+        "1b3A812Aa97b157E9Ff065f4d68F4A0CdAA3ed16": 
+         { "balance": "0x00" },
+        "8a0dd14e8Bd4ffAfe20E5F568473dEb834c0DB22": 
+         { "balance": "0x00" },
+        "b41aE09Fa035cd872CDD7E2446Ee55c9342f9f9D": 
+         { "balance": "0x00" },
+        "b755D4FAeD51F2D6a1B2c786C1E457EF764d3a47": 
+         { "balance": "0x00" },
+        "9ae24e64CE414762e99cbA628bff1BF3196bc645": 
+         { "balance": "0x00" },
+        "44e1ae542E54e7202972a2Ba5773b4422b6B057D": 
+         { "balance": "0x00" },
+        "7aEC9FAbD7ceE0952c8505465Ca01415d18D7468": 
+         { "balance": "0x00" },
+        "a4910b5e324a4ddb96fd0a91ae5510d7681be459": 
+         { "balance": "0x00" }
+    }
+}
